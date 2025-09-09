@@ -2,14 +2,15 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-        <title>
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="Arts, Craft, Wisconsin">
-        <h1><b>The Wisconsin Makers Market Fall Arts and Craft Fair</b></h1>
+ 
+        <title>The Wisconsin Makers Market Fall Arts and Craft Fair</title>
         <h5>Written By Monte Lodahl</h5>
         <h6>Date: 09/05/2025</h6>
-        </title>
+      
     </head>
 <body>
     <h3>What Is the Wisconsin Makers Market?</h3>
