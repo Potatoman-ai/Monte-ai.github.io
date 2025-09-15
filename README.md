@@ -30,7 +30,7 @@
 <body>
     <h3>Why You Should Go.</h3>
     <p>
-    You should go down to the Wisconsin Makers Market because it is loads of fun and you might leave with something home-made and worth the price. In addition the festival is very friendly, unique, and is full of high spirited people. The <em>The Wisconsin Makers Market</em> is a place for new and young artisans to be able to make some cash and sell some of their crafts. If you want to return to the home page <a href= "https://docs.google.com/document/d/19l78ZRa5WofLluamzUvXmJwG98kkobSQH4_88oQcxhI/edit?pli=1&tab=t.0" target="_blank"> click here.</a>
+    You should go down to the Wisconsin Makers Market because it is loads of fun and you might leave with something home-made and worth the price. In addition the festival is very friendly, unique, and is full of high spirited people. The <em>The Wisconsin Makers Market</em> is a place for new and young artisans to be able to make some cash and sell some of their crafts. If you want to return to the home page <a href= "https://docs.google.com/document/d/19l78ZRa5WofLluamzUvXmJwG98kkobSQH4_88oQcxhI/edit?pli=1&tab=t.0" > click here.</a>
     </p>
 </body>
 </html>
