@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
+        <a href="https://potatoman-ai.github.io/News-article/" target="_blank">Home</a>
        <h1> The Wisconsin Makers Market Fall Arts and Craft Fair</h1>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,7 +30,7 @@
 <body>
     <h3>Why You Should Go.</h3>
     <p>
-    You should go down to the Wisconsin Makers Market because it is loads of fun and you might leave with something home-made and worth the price. In addition the festival is very friendly, unique, and is full of high spirited people. The <em>The Wisconsin Makers Market</em> is a place for new and young artisans to be able to make some cash and sell some of their crafts. If you want to return to the home page <a href= "https://potatoman-ai.github.io/News-article/" target="_blank"> click here.</a> 
+    You should go down to the Wisconsin Makers Market because it is loads of fun and you might leave with something home-made and worth the price. In addition the festival is very friendly, unique, and is full of high spirited people. The <em>The Wisconsin Makers Market</em> is a place for new and young artisans to be able to make some cash and sell some of their crafts. 
     </p>
 </body>
 </html>
