@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-        <a href="https://potatoman-ai.github.io/News-article/" target="_blank">Home</a>
+       <h6><a href="https://potatoman-ai.github.io/News-article/" target="_blank">Home</a></h6>
        <h1> The Wisconsin Makers Market Fall Arts and Craft Fair</h1>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
