@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-       <h6><a href="https://potatoman-ai.github.io/News-article/" target="_blank">Home</a></h6>
        <h1> The Wisconsin Makers Market Fall Arts and Craft Fair</h1>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="Arts, Craft, Wisconsin">
     </head>
 <body>
+    <p><a href="https://potatoman-ai.github.io/News-article/" target="_blank">Home</a></p>
     <br/>
     <h5>Written By Monte Lodahl</h5>
     <h6>Date: 09/05/2025</h6>
